@@ -1,6 +1,4 @@
-Sure! Here’s an updated README file for your starter template project using React Router, React, Tailwind CSS, and TypeScript:
 
----
 
 # Starter Template with React, React Router, Tailwind CSS, and TypeScript
 
@@ -100,4 +98,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Feel free to customize this README file further to match the specifics of your project.
