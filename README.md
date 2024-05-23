@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 ### Cloning the Repository
 To get a copy of the project, clone the repository using the following command:
 ```bash
-git clone https://github.com/your-username/starter-template-react-router-tailwind-typescript.git
+git clone https://github.com/amanguptak/React-typescript.git
 ```
 
 ### Installing Dependencies
